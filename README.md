@@ -1,1 +1,3 @@
-# code-league2023
+# HMIF Code League
+
+Repositori menampung soal, jawaban, testcase, dan pembahasan dari HMIF Code League.
